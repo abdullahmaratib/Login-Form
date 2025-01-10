@@ -7,7 +7,7 @@
   "I’ve been working on improving my front-end development skills, and I’m excited to share my latest project: fully functional Login and Signup pages! These pages were designed with Tailwind CSS for clean, responsive UI and built using React.js for dynamic functionality."
   <br>
    <br>
-  <b>Feature</b>
+  <b>Key Feature</b>
   <br>
    <br>
    🔹React Form Handling:
