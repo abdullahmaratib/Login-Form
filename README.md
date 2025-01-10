@@ -1,6 +1,6 @@
 <br>
 <br>
-<b>About</b>
+<b>About Login-Form</b>
 <br>
 <br>
 <p>
@@ -10,14 +10,14 @@
   <b>Feature</b>
   <br>
    <br>
-   1.React Form Handling:
+   1. React Form Handling:
 <br>
 Managed form states using React's useState and added basic form validation.
   <br>
 Created reusable components for scalability.
   <br>
-  <br>
-2.Navigation Between Pages:
+ 
+2. Navigation Between Pages:
   <br>
 <br>
 Built seamless navigation between Login and Signup pages using React Router.
