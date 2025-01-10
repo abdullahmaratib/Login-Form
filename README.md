@@ -1,6 +1,6 @@
 <br>
 <br>
-<b>About Login-Form</b>
+<b>About</b>
 <br>
 <br>
 <p>
@@ -18,7 +18,6 @@ Created reusable components for scalability.
   <br>
  
 2. Navigation Between Pages:
-  <br>
 <br>
 Built seamless navigation between Login and Signup pages using React Router.
   <br>
