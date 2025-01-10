@@ -10,18 +10,18 @@
   <b>Feature</b>
   <br>
    <br>
-   1. React Form Handling:
+   🔹React Form Handling:
 <br>
-Managed form states using React's useState and added basic form validation.
+⭐Managed form states using React's useState and added basic form validation.
   <br>
-Created reusable components for scalability.
+⭐Created reusable components for scalability.
   <br>
  
-2. Navigation Between Pages:
+🔹Navigation Between Pages:
 <br>
-Built seamless navigation between Login and Signup pages using React Router.
+⭐Built seamless navigation between Login and Signup pages using React Router.
   <br>
-Ensured consistent UI and user-friendly transitions.
+⭐Ensured consistent UI and user-friendly transitions.
 </p>
 
 <br>
