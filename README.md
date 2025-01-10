@@ -1,8 +1,25 @@
-# React + Vite
+<br>
+<br>
+<b>About</b>
+<br>
+<p>
+  "I’ve been working on improving my front-end development skills, and I’m excited to share my latest project: fully functional Login and Signup pages! These pages were designed with Tailwind CSS for clean, responsive UI and built using React.js for dynamic functionality."
+  <br>
+  <b>Feature</b>
+   <br>
+   React Form Handling:
+<br>
+Managed form states using React's useState and added basic form validation.
+  <br>
+Created reusable components for scalability.
+  <br>
+  <br>
+Navigation Between Pages 🔄:
+<br>
+Built seamless navigation between Login and Signup pages using React Router.
+  <br>
+Ensured consistent UI and user-friendly transitions.
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
+<br>
